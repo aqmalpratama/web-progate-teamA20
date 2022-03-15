@@ -236,7 +236,11 @@ header nav li {
     row-gap: 10px;
   }
   .hero h1 {
-    font-size: 48px;
+    font-size: 40px;
+  }
+  .hero h3 {
+    font-size: 18px;
+    line-height: 32px;
   }
   .features .grid li {
     flex-basis: 100%;
